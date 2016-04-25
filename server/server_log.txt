@@ -1,0 +1,28 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3c, (C)2005-2010 SA-MP Team
+
+[16:38:35] 
+[16:38:35] Server Plugins
+[16:38:35] --------------
+[16:38:35]  Loading plugin: easybmp
+[16:38:35]   Loaded.
+[16:38:35]  Loaded 1 plugins.
+
+[16:38:35] 
+[16:38:35] Filter Scripts
+[16:38:35] ---------------
+[16:38:35]   Loading filter script 'image.amx'...
+[16:38:35] load
+[16:38:35]   Loaded 1 filter scripts.
+
+[16:38:35] Number of vehicle models: 0
+[16:39:05] Incoming connection: 127.0.0.1:57265
+[16:39:05] [join] Gamer_Z has joined the server (0:127.0.0.1)
+[16:39:05] load
+[16:39:34] [part] Gamer_Z has left the server (0:1)
